@@ -1,4 +1,4 @@
-# Ubuntu_Clip_Board_Manager
+# YOUR'S TEXT NICHE
 
 You know what ...?
 Ubuntu app store already having clipboard indicator with utmost functionality.
